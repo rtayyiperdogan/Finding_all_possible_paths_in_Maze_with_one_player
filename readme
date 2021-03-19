@@ -1,0 +1,12 @@
+There is one player in this program to play Maze game,
+and program will find all possible combinations of paths and
+program will create text file(output.txt) including all possible paths list.
+Also you can see in console of simple Maze MAP.
+
+Note1: var.cfg file is includes some informations about Matrices(MAZE) information, Player or Players number also Obstacle number.
+(Program always will according to var.cfg file.)
+Note2: 01, 02, 03 etc.. these are obstacles.
+Note3: FI : Final point.(Player will try to reach this point.)
+NOTE4: 00 points are free points for moving.
+
+
